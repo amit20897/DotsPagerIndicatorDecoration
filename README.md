@@ -2,7 +2,7 @@
 RecyclerView item decoration - dots indicator.
 
 ## Implementation
-1. Create a file named DotsPagerIndicatorDecoration in your project. \rand copy the contents of [DotsPagerIndicatorDecoration file](https://github.com/amit20897/DotsPagerIndicatorDecoration/blob/master/DotsPagerIndicatorDecoration.java).
+1. Create a file named DotsPagerIndicatorDecoration in your project and copy the contents of [DotsPagerIndicatorDecoration](https://github.com/amit20897/DotsPagerIndicatorDecoration/blob/master/DotsPagerIndicatorDecoration.java) file.
 
 2. Add the dots decoration to your recyclerview.
 
